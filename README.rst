@@ -10,7 +10,7 @@ This is the official Python SDK for v2 of Currency Cloud's API.
 Additional documentation for each API endpoint can be found at
 `connect.currencycloud.com <https://connect.currencycloud.com/documentation/getting-started/introduction>`__.
 If you have any queries or you require support, please contact our
-implementation team at implementation@currencycloud.com.
+sales team at sales@currencycloud.com.
 
 The full source code, tests and examples can be always found on
 `github <https://github.com/CurrencyCloud/currencycloud-python>`__.
